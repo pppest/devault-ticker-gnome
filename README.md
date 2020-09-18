@@ -1,5 +1,5 @@
 # devault-ticker-gnome
-
+![DeVault ticke rin panel](dvt-ticker.png)
 
 install the gnome3 argos extention:   
 https://github.com/p-e-w/argos
